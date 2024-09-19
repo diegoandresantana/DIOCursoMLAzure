@@ -23,12 +23,12 @@ Realize todas as configurações necessárias e vá avançando.
 # Etapa 4: Atenção, no item de configuração de tarefa. 
 
 Vá em Limites digite alguns parametros importantes:
-> Máximo de avaliações: 3
-> Máximo de avaliações simultâneas: 3
-> Máximo de nós: 3
-> Limite de pontuação da métrica: 0,085
-> Tempo limite do experumento(minutos): 15
-> Tempo Limite de iteração: 15
+- Máximo de avaliações: 3
+- Máximo de avaliações simultâneas: 3
+- Máximo de nós: 3
+- Limite de pontuação da métrica: 0,085
+- Tempo limite do experumento(minutos): 15
+- Tempo Limite de iteração: 15
 
 Selecione o Habilitar encerramento antecipado.
 
