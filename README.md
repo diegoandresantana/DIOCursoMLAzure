@@ -36,7 +36,16 @@ Deixe a configuração padrão do servidor que aparece.
 
 Envie para treinamento.
 
-> # Etapa 5: Registar modelo
+# Etapa 5: Registar modelo
 
 Vá na opção modelos e registre o modelo treinado,após o registro aparecerá na lista de modelos.
+
+# Etapa 6: Avaliando as métricas do modelo
+
+No item tarefas(jobs) pode avaliar as métricas do modelo treinado.
+
+# Etapa 7: Pontos de extremidade.
+
+Vá no item do menu chamado Pontos de extremidade, clique em "Criar", depois selecione o modelo, informe as configurações e implante o serviço.
+
 
